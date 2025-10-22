@@ -91,19 +91,6 @@ const diego = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diegopatrikll&theme=tokyonight&hide_border=true&border_radius=10&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=diegopatrikll&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&locale=es" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegopatrikll&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&locale=es" />
-
-</div>
-
----
-
 ## 💼 Experiencia Destacada
 
 ### 🏢 **Desarrollador Full Stack** | LILAB S.A.C. (Perú) - Remote
