@@ -2,11 +2,11 @@
 
 # 👨‍💻 Diego Patricio López Lalangui
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer+%7C+Software+Engineer;8%2B+Years+Building+Scalable+Solutions;Specialized+in+.NET+%7C+React+%7C+Node.js+%7C+Cloud)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Senior+Full+Stack+Developer;.NET+%7C+Angular+%7C+React+%7C+Node.js;9%2B+years+%7C+Fintech+%7C+Remote)](https://git.io/typing-svg)
 
-[![Ecuador](https://img.shields.io/badge/📍_Location-Loja,_Ecuador-success?style=for-the-badge)](https://maps.app.goo.gl/loja)
-[![Experience](https://img.shields.io/badge/Experience-8%2B_Years-blue?style=for-the-badge&logo=clockify&logoColor=white)](https://github.com/diegopatrikll)
-[![Remote](https://img.shields.io/badge/Remote_Work-Certified-green?style=for-the-badge&logo=googlemeet&logoColor=white)](https://github.com/diegopatrikll)
+![Location](https://img.shields.io/badge/📍_Location-Loja,_Ecuador-success?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Experience-9%2B_Years-blue?style=for-the-badge&logo=clockify&logoColor=white)
+![Remote](https://img.shields.io/badge/Remote-Available-green?style=for-the-badge&logo=googlemeet&logoColor=white)
 
 </div>
 
@@ -16,10 +16,11 @@
 
 ```typescript
 const diego = {
-    role: "Full Stack Developer",
+    role: "Senior Full Stack Developer",
     location: "Loja, Ecuador 🇪🇨",
-    experience: "8+ years",
-    currentWork: "LILAB S.A.C. (Perú) - Remote",
+    experience: "9+ years",
+    currentWork: "LILAB - Lima Innovation Lab (Perú) · Remote",
+    domain: ["Fintech (leasing)", "EdTech", "Marketplaces", "ERP / CRM"],
     education: "Ingeniero en Sistemas - Universidad Nacional de Loja",
 
     mindset: {
@@ -30,8 +31,8 @@ const diego = {
 
     speaking: ["🇪🇸 Español (Nativo)", "🇬🇧 English (B1)"],
 
-    currentlyLearning: ["IA Generativa", "Kubernetes", "Microservicios"],
-    openTo: "Proyectos desafiantes con equipos colaborativos"
+    currentlyLearning: ["Desarrollo asistido por IA (Claude Code)", "Kubernetes", "Microservicios"],
+    openTo: "Roles Senior Full Stack, remoto o en Ecuador, especialmente fintech"
 };
 ```
 
@@ -39,85 +40,78 @@ const diego = {
 
 ## 💻 Tech Stack
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
 ### **Backend**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### **Frontend & Mobile**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### **Databases**
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![CouchDB](https://img.shields.io/badge/CouchDB-EA2328?style=for-the-badge&logo=apachecouchdb&logoColor=white)
 
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_Functions-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-### **Other Tools & Technologies**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### **Integración & Herramientas**
+![REST API](https://img.shields.io/badge/REST_/_SOAP_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Quartz](https://img.shields.io/badge/Quartz-0B5EA8?style=for-the-badge)
-![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend_ESB-FF6D70?style=for-the-badge)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
 ## 💼 Experiencia Destacada
 
-### 🏢 **Desarrollador Full Stack** | LILAB S.A.C. (Perú) - Remote
-**Sep 2023 - Actualidad** | *2+ años*
+### 🏦 **Desarrollador Full Stack** | LILAB - Lima Innovation Lab (Perú) · Remote
+**Sep 2023 - Actualidad**
 
-- ✨ Desarrollo de aplicaciones full stack con **React**, **Angular**, **.NET Core**, **Node.js**
-- 🚀 Implementación de arquitecturas cloud en **AWS**
-- 🔐 Desarrollo seguro aplicando estándares **ISO27001**
-- 📱 Apps móviles con **React Native** (Android/iOS)
+Plataforma de **leasing financiero** para el mercado chileno con **1000+ usuarios**.
 
-### 🎓 **Desarrollador Full Stack** | LojaSoft Solutions
+- 🧩 **Líder del módulo de bienes** (activos en leasing): diseño, desarrollo y mantenimiento de punta a punta
+- 🛡️ **Supervisor del módulo de seguros** asociados a los contratos
+- 📄 Funcionalidades en los módulos de **contratos, operaciones y reportes**
+- ⚙️ Stack: **React**, **TypeScript**, **Node.js**, **C#/.NET**, **SQL Server**, **MySQL**, **AWS**, CI/CD
+- 🔐 Desarrollo seguro bajo **ISO 27001** en un entorno financiero regulado
+
+### 🏢 **Desarrollador Full Stack** | LojaSoft Solutions (Loja, Ecuador)
 **Sep 2018 - Ago 2023** | *5 años*
 
-**Proyectos Principales:**
-- **Genus Académico** - Plataforma educativa completa
-  - 📊 Admin: Angular 12 + TypeScript + Redux + Material Design
-  - 💬 Chat: Node.js + MongoDB + WebSockets v2 + NestJS
-  - 📱 App Móvil (Genus Meet): React Native + Redux (iOS/Android)
-  - 🔧 API: .NET Core 5 + PostgreSQL + Entity Framework
+Empresa de servicios de software: producto propio y proyectos para clientes.
 
-### 🏛️ **Desarrollador** | Universidad Técnica Particular de Loja
-**Sep 2018 - Sep 2021** | *3 años*
+**🎓 Genus Académico** (producto propio) — plataforma de gestión académica para colegios, **300+ usuarios**
+- 🔧 API: .NET Core 5 + Entity Framework + PostgreSQL + MongoDB
+- 💬 Chat en tiempo real: NestJS + Express + WebSockets + MongoDB
+- 📊 Admin: Angular 12 + Redux + Angular Material
+- 📱 Prototipo móvil (Genus Meet): React Native + Redux
 
-- 🎯 Soporte técnico **Banner ERP** (Java, Python, Oracle)
-- 💼 Soporte **CRM Dynamics 365** (Plugins, WebPages, JavaScript)
-- 🔄 Integración con **Talend ESB**
-- 🌐 Desarrollo de **SOAP** y **web services**
+**🤝 Proyectos para clientes**
+- **Sentinel – Confident** (2022–2023): Angular 11 + lógica en SQL Server
+- **Grupo Business IT – Medianet** (2022–2023): Kafka + Quartz + .NET Core 6 + SQL Server
+- **Campusoft – Marketplace** (2021–2022): integración con Microsoft Partner Center vía Azure Functions + .NET Core 5 + MongoDB
+- **UTPL** (2018–2020): integraciones del ERP Banner (Java, Oracle, Talend ESB, ActiveMQ, SOAP) y personalizaciones de Dynamics 365 (CRM)
 
 ---
 
@@ -127,25 +121,26 @@ const diego = {
 <tr>
 <td width="50%">
 
-### 🎖️ **Certificaciones Profesionales**
-- ✅ **Scrum Foundation Professional** - CertiProf
-- ✅ **Remote Work Professional** - CertiProf
-- ✅ **Cisco Networking** - Seguridad Cibernética
-- ✅ **Linux Unhatched** - Cisco NDG
-- ✅ **ISO27001** - Hackmetrix
-- ✅ **Desarrollo Seguro** - LILAB
-- ✅ **Principios UX/UI** - LILAB
+### 🎖️ **Certificaciones**
+- 🤖 **Claude Code in Action** - Anthropic (2026) · [verificar](https://verify.skilljar.com/c/ru5kz2dwujr9)
+- 🤖 **Introduction to Subagents** - Anthropic (2026)
+- 🔐 **ISO 27001** - Hackmetrix (2024)
+- 🔐 **Desarrollo Seguro** - Hackmetrix (2024)
+- 🔐 **Concientización en Seguridad de la Información** - Hackmetrix (2024)
+- ✅ **Scrum Foundation Professional (SFPC)** - CertiProf (2023)
+- ✅ **Remote Work Professional (RWPC)** - CertiProf (2023)
+- 🌐 **Introducción a la Ciberseguridad** y **NDG Linux Unhatched** - Cisco
 
 </td>
 <td width="50%">
 
-### 🎯 **Tecnologías & Soft Skills**
+### 🎯 **Formación & Soft Skills**
+- 🎓 **Ingeniero en Sistemas Informáticos y Computación** - UNL (2017)
+- 🎨 Principios UX/UI - LILAB
+- 📐 Técnicas de Estimación - LILAB
 - 🤝 Metodologías Ágiles (Scrum)
-- 🔐 Seguridad de la Información
-- 🎨 Diseño UX/UI
-- 🤖 IA Generativa (LinkedIn Learning)
-- 📐 Técnicas de Estimación
-- 🌐 Trabajo Remoto Certificado
+- 💬 Comunicación, feedback y negociación (Platzi)
+- 🌐 Trabajo remoto en equipos internacionales
 
 </td>
 </tr>
@@ -159,27 +154,31 @@ const diego = {
 mindmap
   root((Diego López))
     Full Stack Development
-      Frontend
-        React/Angular
-        TypeScript
-        Mobile (React Native)
       Backend
-        .NET Core
-        Node.js/NestJS
-        Java/Python
+        .NET Core / C#
+        Node.js / NestJS
+        Java / Python
+      Frontend
+        Angular / React
+        TypeScript
+        React Native
+    Dominios
+      Fintech (leasing)
+      EdTech
+      ERP / CRM
     Cloud & DevOps
       AWS
-      Azure
-      Docker/Kubernetes
-      CI/CD Pipelines
-    Databases
-      SQL (PostgreSQL, MySQL, Oracle)
-      NoSQL (MongoDB, CouchDB)
-    Soft Skills
-      Scrum/Agile
-      Remote Work
-      Team Collaboration
-      Continuous Learning
+      Azure Functions
+      Docker
+      CI/CD
+    Datos & Integración
+      SQL Server / PostgreSQL / MySQL / Oracle
+      MongoDB
+      Kafka / Talend ESB
+    Prácticas
+      Scrum / Agile
+      Desarrollo seguro ISO 27001
+      Desarrollo asistido por IA
 ```
 
 ---
@@ -202,20 +201,13 @@ mindmap
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-diegopatrikll@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegopatrikll@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegopatrikll)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegopatrikll)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-patricio-lopez-lalangui)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diplez)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/593968575936)
 
 📍 **Loja, Ecuador** | 🌎 **Disponible para trabajo remoto**
 
 </div>
-
----
-
-## 📈 Actividad Reciente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
@@ -226,7 +218,7 @@ mindmap
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=diegopatrikll&color=2e9ef7&style=for-the-badge&label=VISITAS+AL+PERFIL)
+![Profile Views](https://komarev.com/ghpvc/?username=diplez&color=2e9ef7&style=for-the-badge&label=VISITAS+AL+PERFIL)
 
 **⭐ Si te gusta mi trabajo, no dudes en darle una estrella a mis repositorios ⭐**
 
